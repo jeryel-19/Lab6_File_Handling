@@ -1,0 +1,5 @@
+Student: Correa
+Student ID: TUPM-26-1106
+Seed digit: 6
+ID sum: 16
+Verification value: 102

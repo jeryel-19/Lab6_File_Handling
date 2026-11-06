@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Correa
+Student ID: TUPM-26-1106
+Seed Digit: 6
+ID Sum: 16
+Verification Value: 102
+Dataset Sample Size: 66
+Valid Records: 66
+Average Global Active Power: 4.096
+JSON File: Correa_TUPM-26-1106_record.json
+Backup File: Correa_TUPM-26-1106_record.csv
