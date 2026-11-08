@@ -1,0 +1,47 @@
+CYBERSECURITY INCIDENT REPORT
+========================================
+Student: Correa
+Student ID: TUPM-26-1106
+Target Year: 2021
+
+DATASET SUMMARY
+----------------------------------------
+Total Records: 3000
+Incidents in Target Year: 299
+Invalid Year Records: 0
+Invalid Financial Records: 0
+
+INCIDENT COUNT PER ATTACK TYPE
+----------------------------------------
+DDoS: 47
+Malware: 49
+Man-in-the-Middle: 48
+Phishing: 41
+Ransomware: 55
+SQL Injection: 59
+
+FINANCIAL LOSS SUMMARY
+----------------------------------------
+Total Financial Loss: 15873.41 USD million
+Average Financial Loss: 53.09 USD million
+
+FIVE COSTLIEST INCIDENTS
+----------------------------------------
+1. USA | DDoS | Telecommunications | 99.81 USD million
+2. France | Ransomware | IT | 99.77 USD million
+3. France | SQL Injection | Government | 98.76 USD million
+4. China | SQL Injection | IT | 98.57 USD million
+5. India | SQL Injection | IT | 98.09 USD million
+
+OUTPUT FILE INFORMATION
+----------------------------------------
+filtered_cybersecurity_incidents.csv: 25865 bytes
+top_costliest_incidents.json: 2142 bytes
+incident_summary.json: 2969 bytes
+top_costliest_incidents_backup.json: 2142 bytes
+cybersecurity_incident_report.txt: Not yet created
+
+BACKUP VERIFICATION
+----------------------------------------
+Backup Exists: True
+Backup Verified: True

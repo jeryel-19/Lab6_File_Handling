@@ -1,0 +1,14 @@
+{
+    "student": "Correa",
+    "student_id": "TUPM-26-1106",
+    "seed_digit": 6,
+    "id_sum": 16,
+    "operating_system": "Android",
+    "target_behavior_class": 2,
+    "total_records": 700,
+    "records_matching_os": 554,
+    "records_in_target_behavior_class": 114,
+    "invalid_records": 0,
+    "average_battery_drain_mAh_per_day": 887.1140350877193,
+    "average_data_usage_MB_per_day": 451.43859649122805
+}
